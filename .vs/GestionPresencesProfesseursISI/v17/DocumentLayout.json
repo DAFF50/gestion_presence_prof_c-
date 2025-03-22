@@ -1,0 +1,289 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alseyni DAFF\\Documents\\Projet C#\\GestionPresencesProfesseursISI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A214EDAE-AB4D-42B3-AAEC-33B6F44A01A9}|GestionPresencesProfesseursISI\\GestionPresencesProfesseursISI.csproj|c:\\users\\alseyni daff\\documents\\projet c#\\gestionpresencesprofesseursisi\\gestionpresencesprofesseursisi\\form\\formnewpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A214EDAE-AB4D-42B3-AAEC-33B6F44A01A9}|GestionPresencesProfesseursISI\\GestionPresencesProfesseursISI.csproj|solutionrelative:gestionpresencesprofesseursisi\\form\\formnewpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A214EDAE-AB4D-42B3-AAEC-33B6F44A01A9}|GestionPresencesProfesseursISI\\GestionPresencesProfesseursISI.csproj|c:\\users\\alseyni daff\\documents\\projet c#\\gestionpresencesprofesseursisi\\gestionpresencesprofesseursisi\\usercontrol\\usercontrolutilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A214EDAE-AB4D-42B3-AAEC-33B6F44A01A9}|GestionPresencesProfesseursISI\\GestionPresencesProfesseursISI.csproj|solutionrelative:gestionpresencesprofesseursisi\\usercontrol\\usercontrolutilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A214EDAE-AB4D-42B3-AAEC-33B6F44A01A9}|GestionPresencesProfesseursISI\\GestionPresencesProfesseursISI.csproj|c:\\users\\alseyni daff\\documents\\projet c#\\gestionpresencesprofesseursisi\\gestionpresencesprofesseursisi\\usercontrol\\usercontrolutilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A214EDAE-AB4D-42B3-AAEC-33B6F44A01A9}|GestionPresencesProfesseursISI\\GestionPresencesProfesseursISI.csproj|solutionrelative:gestionpresencesprofesseursisi\\usercontrol\\usercontrolutilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A214EDAE-AB4D-42B3-AAEC-33B6F44A01A9}|GestionPresencesProfesseursISI\\GestionPresencesProfesseursISI.csproj|c:\\users\\alseyni daff\\documents\\projet c#\\gestionpresencesprofesseursisi\\gestionpresencesprofesseursisi\\form\\formnewpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A214EDAE-AB4D-42B3-AAEC-33B6F44A01A9}|GestionPresencesProfesseursISI\\GestionPresencesProfesseursISI.csproj|solutionrelative:gestionpresencesprofesseursisi\\form\\formnewpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A214EDAE-AB4D-42B3-AAEC-33B6F44A01A9}|GestionPresencesProfesseursISI\\GestionPresencesProfesseursISI.csproj|c:\\users\\alseyni daff\\documents\\projet c#\\gestionpresencesprofesseursisi\\gestionpresencesprofesseursisi\\form\\formhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A214EDAE-AB4D-42B3-AAEC-33B6F44A01A9}|GestionPresencesProfesseursISI\\GestionPresencesProfesseursISI.csproj|solutionrelative:gestionpresencesprofesseursisi\\form\\formhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A214EDAE-AB4D-42B3-AAEC-33B6F44A01A9}|GestionPresencesProfesseursISI\\GestionPresencesProfesseursISI.csproj|c:\\users\\alseyni daff\\documents\\projet c#\\gestionpresencesprofesseursisi\\gestionpresencesprofesseursisi\\form\\formhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A214EDAE-AB4D-42B3-AAEC-33B6F44A01A9}|GestionPresencesProfesseursISI\\GestionPresencesProfesseursISI.csproj|solutionrelative:gestionpresencesprofesseursisi\\form\\formhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A214EDAE-AB4D-42B3-AAEC-33B6F44A01A9}|GestionPresencesProfesseursISI\\GestionPresencesProfesseursISI.csproj|c:\\users\\alseyni daff\\documents\\projet c#\\gestionpresencesprofesseursisi\\gestionpresencesprofesseursisi\\classe\\formmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A214EDAE-AB4D-42B3-AAEC-33B6F44A01A9}|GestionPresencesProfesseursISI\\GestionPresencesProfesseursISI.csproj|solutionrelative:gestionpresencesprofesseursisi\\classe\\formmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A214EDAE-AB4D-42B3-AAEC-33B6F44A01A9}|GestionPresencesProfesseursISI\\GestionPresencesProfesseursISI.csproj|c:\\users\\alseyni daff\\documents\\projet c#\\gestionpresencesprofesseursisi\\gestionpresencesprofesseursisi\\form\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A214EDAE-AB4D-42B3-AAEC-33B6F44A01A9}|GestionPresencesProfesseursISI\\GestionPresencesProfesseursISI.csproj|solutionrelative:gestionpresencesprofesseursisi\\form\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A214EDAE-AB4D-42B3-AAEC-33B6F44A01A9}|GestionPresencesProfesseursISI\\GestionPresencesProfesseursISI.csproj|c:\\users\\alseyni daff\\documents\\projet c#\\gestionpresencesprofesseursisi\\gestionpresencesprofesseursisi\\form\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A214EDAE-AB4D-42B3-AAEC-33B6F44A01A9}|GestionPresencesProfesseursISI\\GestionPresencesProfesseursISI.csproj|solutionrelative:gestionpresencesprofesseursisi\\form\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A214EDAE-AB4D-42B3-AAEC-33B6F44A01A9}|GestionPresencesProfesseursISI\\GestionPresencesProfesseursISI.csproj|c:\\users\\alseyni daff\\documents\\projet c#\\gestionpresencesprofesseursisi\\gestionpresencesprofesseursisi\\usercontrol\\usercontrolcours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A214EDAE-AB4D-42B3-AAEC-33B6F44A01A9}|GestionPresencesProfesseursISI\\GestionPresencesProfesseursISI.csproj|solutionrelative:gestionpresencesprofesseursisi\\usercontrol\\usercontrolcours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A214EDAE-AB4D-42B3-AAEC-33B6F44A01A9}|GestionPresencesProfesseursISI\\GestionPresencesProfesseursISI.csproj|c:\\users\\alseyni daff\\documents\\projet c#\\gestionpresencesprofesseursisi\\gestionpresencesprofesseursisi\\usercontrol\\usercontrolcours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A214EDAE-AB4D-42B3-AAEC-33B6F44A01A9}|GestionPresencesProfesseursISI\\GestionPresencesProfesseursISI.csproj|solutionrelative:gestionpresencesprofesseursisi\\usercontrol\\usercontrolcours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A214EDAE-AB4D-42B3-AAEC-33B6F44A01A9}|GestionPresencesProfesseursISI\\GestionPresencesProfesseursISI.csproj|c:\\users\\alseyni daff\\documents\\projet c#\\gestionpresencesprofesseursisi\\gestionpresencesprofesseursisi\\usercontrol\\usercontrolemargementadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A214EDAE-AB4D-42B3-AAEC-33B6F44A01A9}|GestionPresencesProfesseursISI\\GestionPresencesProfesseursISI.csproj|solutionrelative:gestionpresencesprofesseursisi\\usercontrol\\usercontrolemargementadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A214EDAE-AB4D-42B3-AAEC-33B6F44A01A9}|GestionPresencesProfesseursISI\\GestionPresencesProfesseursISI.csproj|c:\\users\\alseyni daff\\documents\\projet c#\\gestionpresencesprofesseursisi\\gestionpresencesprofesseursisi\\classe\\emailtemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A214EDAE-AB4D-42B3-AAEC-33B6F44A01A9}|GestionPresencesProfesseursISI\\GestionPresencesProfesseursISI.csproj|solutionrelative:gestionpresencesprofesseursisi\\classe\\emailtemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A214EDAE-AB4D-42B3-AAEC-33B6F44A01A9}|GestionPresencesProfesseursISI\\GestionPresencesProfesseursISI.csproj|c:\\users\\alseyni daff\\documents\\projet c#\\gestionpresencesprofesseursisi\\gestionpresencesprofesseursisi\\usercontrol\\usercontrolemargementprof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A214EDAE-AB4D-42B3-AAEC-33B6F44A01A9}|GestionPresencesProfesseursISI\\GestionPresencesProfesseursISI.csproj|solutionrelative:gestionpresencesprofesseursisi\\usercontrol\\usercontrolemargementprof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A214EDAE-AB4D-42B3-AAEC-33B6F44A01A9}|GestionPresencesProfesseursISI\\GestionPresencesProfesseursISI.csproj|c:\\users\\alseyni daff\\documents\\projet c#\\gestionpresencesprofesseursisi\\gestionpresencesprofesseursisi\\usercontrol\\usercontrolemargementprof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A214EDAE-AB4D-42B3-AAEC-33B6F44A01A9}|GestionPresencesProfesseursISI\\GestionPresencesProfesseursISI.csproj|solutionrelative:gestionpresencesprofesseursisi\\usercontrol\\usercontrolemargementprof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A214EDAE-AB4D-42B3-AAEC-33B6F44A01A9}|GestionPresencesProfesseursISI\\GestionPresencesProfesseursISI.csproj|c:\\users\\alseyni daff\\documents\\projet c#\\gestionpresencesprofesseursisi\\gestionpresencesprofesseursisi\\usercontrol\\usercontrolemargementadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A214EDAE-AB4D-42B3-AAEC-33B6F44A01A9}|GestionPresencesProfesseursISI\\GestionPresencesProfesseursISI.csproj|solutionrelative:gestionpresencesprofesseursisi\\usercontrol\\usercontrolemargementadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormNewPassword.cs",
+              "DocumentMoniker": "C:\\Users\\Alseyni DAFF\\Documents\\Projet C#\\GestionPresencesProfesseursISI\\GestionPresencesProfesseursISI\\Form\\FormNewPassword.cs",
+              "RelativeDocumentMoniker": "GestionPresencesProfesseursISI\\Form\\FormNewPassword.cs",
+              "ToolTip": "C:\\Users\\Alseyni DAFF\\Documents\\Projet C#\\GestionPresencesProfesseursISI\\GestionPresencesProfesseursISI\\Form\\FormNewPassword.cs",
+              "RelativeToolTip": "GestionPresencesProfesseursISI\\Form\\FormNewPassword.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T00:12:55.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserControlUtilisateur.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alseyni DAFF\\Documents\\Projet C#\\GestionPresencesProfesseursISI\\GestionPresencesProfesseursISI\\UserControl\\UserControlUtilisateur.cs",
+              "RelativeDocumentMoniker": "GestionPresencesProfesseursISI\\UserControl\\UserControlUtilisateur.cs",
+              "ToolTip": "C:\\Users\\Alseyni DAFF\\Documents\\Projet C#\\GestionPresencesProfesseursISI\\GestionPresencesProfesseursISI\\UserControl\\UserControlUtilisateur.cs [Design]",
+              "RelativeToolTip": "GestionPresencesProfesseursISI\\UserControl\\UserControlUtilisateur.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T00:45:18.844Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserControlUtilisateur.cs",
+              "DocumentMoniker": "C:\\Users\\Alseyni DAFF\\Documents\\Projet C#\\GestionPresencesProfesseursISI\\GestionPresencesProfesseursISI\\UserControl\\UserControlUtilisateur.cs",
+              "RelativeDocumentMoniker": "GestionPresencesProfesseursISI\\UserControl\\UserControlUtilisateur.cs",
+              "ToolTip": "C:\\Users\\Alseyni DAFF\\Documents\\Projet C#\\GestionPresencesProfesseursISI\\GestionPresencesProfesseursISI\\UserControl\\UserControlUtilisateur.cs",
+              "RelativeToolTip": "GestionPresencesProfesseursISI\\UserControl\\UserControlUtilisateur.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAAwLEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T00:45:20.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormNewPassword.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alseyni DAFF\\Documents\\Projet C#\\GestionPresencesProfesseursISI\\GestionPresencesProfesseursISI\\Form\\FormNewPassword.cs",
+              "RelativeDocumentMoniker": "GestionPresencesProfesseursISI\\Form\\FormNewPassword.cs",
+              "ToolTip": "C:\\Users\\Alseyni DAFF\\Documents\\Projet C#\\GestionPresencesProfesseursISI\\GestionPresencesProfesseursISI\\Form\\FormNewPassword.cs [Design]",
+              "RelativeToolTip": "GestionPresencesProfesseursISI\\Form\\FormNewPassword.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T00:03:13.175Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormHome.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alseyni DAFF\\Documents\\Projet C#\\GestionPresencesProfesseursISI\\GestionPresencesProfesseursISI\\Form\\FormHome.cs",
+              "RelativeDocumentMoniker": "GestionPresencesProfesseursISI\\Form\\FormHome.cs",
+              "ToolTip": "C:\\Users\\Alseyni DAFF\\Documents\\Projet C#\\GestionPresencesProfesseursISI\\GestionPresencesProfesseursISI\\Form\\FormHome.cs [Design]",
+              "RelativeToolTip": "GestionPresencesProfesseursISI\\Form\\FormHome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T01:30:56.684Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormHome.cs",
+              "DocumentMoniker": "C:\\Users\\Alseyni DAFF\\Documents\\Projet C#\\GestionPresencesProfesseursISI\\GestionPresencesProfesseursISI\\Form\\FormHome.cs",
+              "RelativeDocumentMoniker": "GestionPresencesProfesseursISI\\Form\\FormHome.cs",
+              "ToolTip": "C:\\Users\\Alseyni DAFF\\Documents\\Projet C#\\GestionPresencesProfesseursISI\\GestionPresencesProfesseursISI\\Form\\FormHome.cs",
+              "RelativeToolTip": "GestionPresencesProfesseursISI\\Form\\FormHome.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAywK4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T01:30:58.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormManager.cs",
+              "DocumentMoniker": "C:\\Users\\Alseyni DAFF\\Documents\\Projet C#\\GestionPresencesProfesseursISI\\GestionPresencesProfesseursISI\\Classe\\FormManager.cs",
+              "RelativeDocumentMoniker": "GestionPresencesProfesseursISI\\Classe\\FormManager.cs",
+              "ToolTip": "C:\\Users\\Alseyni DAFF\\Documents\\Projet C#\\GestionPresencesProfesseursISI\\GestionPresencesProfesseursISI\\Classe\\FormManager.cs",
+              "RelativeToolTip": "GestionPresencesProfesseursISI\\Classe\\FormManager.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA5wCMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T01:49:58.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alseyni DAFF\\Documents\\Projet C#\\GestionPresencesProfesseursISI\\GestionPresencesProfesseursISI\\Form\\FormLogin.cs",
+              "RelativeDocumentMoniker": "GestionPresencesProfesseursISI\\Form\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\Alseyni DAFF\\Documents\\Projet C#\\GestionPresencesProfesseursISI\\GestionPresencesProfesseursISI\\Form\\FormLogin.cs [Design]",
+              "RelativeToolTip": "GestionPresencesProfesseursISI\\Form\\FormLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T23:43:29.923Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Alseyni DAFF\\Documents\\Projet C#\\GestionPresencesProfesseursISI\\GestionPresencesProfesseursISI\\Form\\FormLogin.cs",
+              "RelativeDocumentMoniker": "GestionPresencesProfesseursISI\\Form\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\Alseyni DAFF\\Documents\\Projet C#\\GestionPresencesProfesseursISI\\GestionPresencesProfesseursISI\\Form\\FormLogin.cs",
+              "RelativeToolTip": "GestionPresencesProfesseursISI\\Form\\FormLogin.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAiwHMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T23:43:32.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserControlCours.cs",
+              "DocumentMoniker": "C:\\Users\\Alseyni DAFF\\Documents\\Projet C#\\GestionPresencesProfesseursISI\\GestionPresencesProfesseursISI\\UserControl\\UserControlCours.cs",
+              "RelativeDocumentMoniker": "GestionPresencesProfesseursISI\\UserControl\\UserControlCours.cs",
+              "ToolTip": "C:\\Users\\Alseyni DAFF\\Documents\\Projet C#\\GestionPresencesProfesseursISI\\GestionPresencesProfesseursISI\\UserControl\\UserControlCours.cs",
+              "RelativeToolTip": "GestionPresencesProfesseursISI\\UserControl\\UserControlCours.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAywJEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T23:20:22.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserControlCours.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alseyni DAFF\\Documents\\Projet C#\\GestionPresencesProfesseursISI\\GestionPresencesProfesseursISI\\UserControl\\UserControlCours.cs",
+              "RelativeDocumentMoniker": "GestionPresencesProfesseursISI\\UserControl\\UserControlCours.cs",
+              "ToolTip": "C:\\Users\\Alseyni DAFF\\Documents\\Projet C#\\GestionPresencesProfesseursISI\\GestionPresencesProfesseursISI\\UserControl\\UserControlCours.cs [Design]",
+              "RelativeToolTip": "GestionPresencesProfesseursISI\\UserControl\\UserControlCours.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T23:20:17.653Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserControlEmargementAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\Alseyni DAFF\\Documents\\Projet C#\\GestionPresencesProfesseursISI\\GestionPresencesProfesseursISI\\UserControl\\UserControlEmargementAdmin.cs",
+              "RelativeDocumentMoniker": "GestionPresencesProfesseursISI\\UserControl\\UserControlEmargementAdmin.cs",
+              "ToolTip": "C:\\Users\\Alseyni DAFF\\Documents\\Projet C#\\GestionPresencesProfesseursISI\\GestionPresencesProfesseursISI\\UserControl\\UserControlEmargementAdmin.cs",
+              "RelativeToolTip": "GestionPresencesProfesseursISI\\UserControl\\UserControlEmargementAdmin.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAgwDkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T21:40:14.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserControlEmargementProf.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alseyni DAFF\\Documents\\Projet C#\\GestionPresencesProfesseursISI\\GestionPresencesProfesseursISI\\UserControl\\UserControlEmargementProf.cs",
+              "RelativeDocumentMoniker": "GestionPresencesProfesseursISI\\UserControl\\UserControlEmargementProf.cs",
+              "ToolTip": "C:\\Users\\Alseyni DAFF\\Documents\\Projet C#\\GestionPresencesProfesseursISI\\GestionPresencesProfesseursISI\\UserControl\\UserControlEmargementProf.cs [Design]",
+              "RelativeToolTip": "GestionPresencesProfesseursISI\\UserControl\\UserControlEmargementProf.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T21:40:05.313Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserControlEmargementProf.cs",
+              "DocumentMoniker": "C:\\Users\\Alseyni DAFF\\Documents\\Projet C#\\GestionPresencesProfesseursISI\\GestionPresencesProfesseursISI\\UserControl\\UserControlEmargementProf.cs",
+              "RelativeDocumentMoniker": "GestionPresencesProfesseursISI\\UserControl\\UserControlEmargementProf.cs",
+              "ToolTip": "C:\\Users\\Alseyni DAFF\\Documents\\Projet C#\\GestionPresencesProfesseursISI\\GestionPresencesProfesseursISI\\UserControl\\UserControlEmargementProf.cs",
+              "RelativeToolTip": "GestionPresencesProfesseursISI\\UserControl\\UserControlEmargementProf.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAQwCgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T21:47:15.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmailTemplate.cs",
+              "DocumentMoniker": "C:\\Users\\Alseyni DAFF\\Documents\\Projet C#\\GestionPresencesProfesseursISI\\GestionPresencesProfesseursISI\\Classe\\EmailTemplate.cs",
+              "RelativeDocumentMoniker": "GestionPresencesProfesseursISI\\Classe\\EmailTemplate.cs",
+              "ToolTip": "C:\\Users\\Alseyni DAFF\\Documents\\Projet C#\\GestionPresencesProfesseursISI\\GestionPresencesProfesseursISI\\Classe\\EmailTemplate.cs",
+              "RelativeToolTip": "GestionPresencesProfesseursISI\\Classe\\EmailTemplate.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T21:35:16.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserControlEmargementAdmin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Alseyni DAFF\\Documents\\Projet C#\\GestionPresencesProfesseursISI\\GestionPresencesProfesseursISI\\UserControl\\UserControlEmargementAdmin.cs",
+              "RelativeDocumentMoniker": "GestionPresencesProfesseursISI\\UserControl\\UserControlEmargementAdmin.cs",
+              "ToolTip": "C:\\Users\\Alseyni DAFF\\Documents\\Projet C#\\GestionPresencesProfesseursISI\\GestionPresencesProfesseursISI\\UserControl\\UserControlEmargementAdmin.cs [Design]",
+              "RelativeToolTip": "GestionPresencesProfesseursISI\\UserControl\\UserControlEmargementAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T21:40:11.948Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
