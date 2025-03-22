@@ -36,11 +36,11 @@ namespace GestionPresencesProfesseursISI
                     if (changes != 0)
                     {
                         MessageBox.Show("Nouveau mot de passe définie avec succès", "Information", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                        FormManager.ShowFormHome();
+                        FormManager.ShowFormLogin();
                     }
                    
                 }
-                FormManager.ShowFormLogin();
+                
             }
             else
             {

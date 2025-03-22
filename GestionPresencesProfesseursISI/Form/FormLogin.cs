@@ -105,14 +105,14 @@ namespace GestionPresencesProfesseursISI
             
             FormLoading FRM = new FormLoading();
             FRM.Show(this);
-            var Users = await Task.Run(() => db.Users.FirstOrDefault(u => u.Email == txtEmail.Text));
+            var Users = await Task.Run(() => db.Users.AsNoTracking().FirstOrDefault(u => u.Email == txtEmail.Text));
             FRM.Close();
             if (Users != null && BCrypt.Net.BCrypt.Verify(txtPassword.Text, Users.Password))
             {
                 SessionUtisateur.role = Users.Role;
                 SessionUtisateur.Id = Users.Id;
                 if (txtPassword.Text == "passer") { 
-                        FormManager.ShowFormNewPassword();                
+                       FormManager.ShowFormNewPassword();                
                 }
                 else
                 {
